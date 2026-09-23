@@ -302,6 +302,10 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
+file = "github-test.txt"
+hash = "0cd2f9be6687dbef46e94faa520c9b4c117f6d7734b1c3d5b9b114fef3d8613c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
 metafile = true
