@@ -1,0 +1,13 @@
+name = "MiloCraft4Ever"
+author = "chester"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "705617fbb4ec38f99f2bda63641669afabb1b6e1d9bfd65b01056f85acb4c4cc"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

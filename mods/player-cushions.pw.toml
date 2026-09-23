@@ -1,0 +1,13 @@
+name = "Player Cushions"
+filename = "PlayerCushions-1.1.0+26.3+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XgxrAyLQ/versions/jFSBhD0l/PlayerCushions-1.1.0%2B26.3%2Bfabric.jar"
+hash-format = "sha512"
+hash = "e842c81842f6634a049e8c9a94097a4e7e6a7b82b417ddd0561a571a279de8c1392d7a42ca892fd578ad70a2d751da93b472c7e96501fa7a9a6f24902a9fd658"
+
+[update]
+[update.modrinth]
+mod-id = "XgxrAyLQ"
+version = "jFSBhD0l"

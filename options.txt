@@ -1,0 +1,16 @@
+enableVsync:false
+fov:0.5
+fullscreen:false
+exclusiveFullscreen:false
+gamma:1
+guiScale:4
+maxFps:260
+narrator:0
+renderDistance:8
+simulationDistance:5
+chatLinksPrompt:false
+pauseOnLostFocus:false
+tutorialStep:none
+skipMultiplayerWarning:true
+allowServerListing:true
+onboardAccessibility:false

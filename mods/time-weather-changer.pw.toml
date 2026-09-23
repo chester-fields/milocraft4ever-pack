@@ -1,0 +1,13 @@
+name = "Time & Weather Changer"
+filename = "Time & Weather Changer-fabric-26.3-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1xYzY0M/versions/zGehjCa8/Time%20%26%20Weather%20Changer-fabric-26.3-1.3.0.jar"
+hash-format = "sha512"
+hash = "40ab45748213aea143b3da9df474b81ae8d6cd674d8636807986c71f1ae62a5b5efe1912ce3c0d87587a4ca3b91aab62521b67cac4160132af769d576f6cce79"
+
+[update]
+[update.modrinth]
+mod-id = "R1xYzY0M"
+version = "zGehjCa8"
