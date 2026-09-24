@@ -356,8 +356,9 @@ hash = "9f22fc973e9b765c43d2af5ece755be8d006000ab3bb202772529b76809bfec0"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft-for-MC26.3-3.5.0-a.build.167+milocraft.8.jar"
-hash = "b3f6e6142a20e5759710b32ee74081bcc848d07d8ff45467ab5be2a06790836f"
+file = "mods/emotecraft.pw.toml"
+hash = "8ce8f7a5fa36fae2d745b3eb692cc81a31deede5072cdf771423e9c46905d310"
+metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
