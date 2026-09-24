@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "55554bc0f0370f38eea13d1cc9ef2a8cbe253f3c1b837a08e733300b478ea266"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "067eae8945eff06a42c8a5c6f570cba69877000fa77d89a00ada208eebbf2953"
+hash = "d9cba6cac8489cdc81e42cec6e663cca1ee86e5314ff13feb90bacaaf386f31d"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "e9c3426ed32b3b0bfc5d44552940f065a2b8e6353f6c326a4ecd05dda3c46a06"
+hash = "c06f7a10340c07828d47e0a3b78e0b839723da4e9e6030e99ea166222007db32"
 metafile = true
 
 [[files]]
