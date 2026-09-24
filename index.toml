@@ -6,6 +6,11 @@ hash = "c63126317fcfb1dddd562f6f62274db8f42831a5134be5d6c872f404dc1cbf06"
 preserve = true
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "b7b4d2977ed561aa52f4436a549ee6cc392ee55e981a505e88f778cfe61e5246"
+preserve = true
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "99322572e6d163ef25c1773569b4c11bd7f726f286224c67c568f4951d65e751"
 
@@ -351,9 +356,8 @@ hash = "9f22fc973e9b765c43d2af5ece755be8d006000ab3bb202772529b76809bfec0"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "9433afdb15cb4a1c3accd801846d3967819cf81bdf202f7f4819b951aeacdac2"
-metafile = true
+file = "mods/emotecraft-for-MC26.3-3.5.0-a.build.167+milocraft.8.jar"
+hash = "b3f6e6142a20e5759710b32ee74081bcc848d07d8ff45467ab5be2a06790836f"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -403,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "7422583b1b0846e9899142d0b97fd6ed399bbafd5f2252798d4f109d024d8839"
+metafile = true
+
+[[files]]
+file = "mods/imageframeclient.pw.toml"
+hash = "c11c2c85f6b357611e27f9b5626eb5da777acb7f3bb5f861b51324ad1ca23fc1"
 metafile = true
 
 [[files]]
