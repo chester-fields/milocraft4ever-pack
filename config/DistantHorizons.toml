@@ -1,2 +1,7 @@
-lodChunkRenderDistanceRadius = 128
-blocksDontRenderTextureCsv = "minecraft:bamboo,minecraft:snow"
+_version = 4
+
+[client.advanced.autoUpdater]
+enableAutoUpdater = false
+
+[client.advanced.graphics.quality]
+lodChunkRenderDistanceRadius = 64
