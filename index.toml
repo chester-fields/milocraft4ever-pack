@@ -307,6 +307,11 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
+file = "mods/3d-maps.pw.toml"
+hash = "d05f0dfb85b3d14f2355c84db1bd79fe2b91b7b4a0e8f8bd5a72c7d5beff4e30"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
 metafile = true
