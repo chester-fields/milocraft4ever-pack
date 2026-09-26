@@ -317,8 +317,8 @@ hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
 metafile = true
 
 [[files]]
-file = "mods/MiloCraftXaeroWaystones-26.3-2.0.5.jar"
-hash = "23cb8af3df10aa0d11924f86a03ec049dcee6eb0b87ba3eaa561ce3b0c21ae98"
+file = "mods/MiloCraftXaeroWaystones-26.3-2.0.7.jar"
+hash = "f4fe4324672cd0a9fad772b989dd9ce1d32a976467107c1d89ec1f291c950aeb"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
