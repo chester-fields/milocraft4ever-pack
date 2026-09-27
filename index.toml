@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "887a2b410d522667ecc1e31b8aa038aecf31451b707e822e0b269c970aaa2e23"
+hash = "d02f19ad1ced26842ec50539cdaf16b208fbf80b67eea02f2755f839d6888c68"
 metafile = true
 
 [[files]]
 file = "mods/chunksmith.pw.toml"
-hash = "aecd84ebb1e9d3444d09262a28038e11b76c326946a19a480e48519eda50413f"
+hash = "893da828fd0f2248ab7e72a8460f81dcc8f6551a1c327896b422cec9e1013701"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "c2fccea517599d68552cbee46224923c24f027b42c4876c440ba9e89baa3365d"
+hash = "197e6bd2d70f3a2ee379ddede2d6cdf0ce187037441eb0b64883ba09ac88ecc4"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "85475cc5c63e9e38695503a70847582ca21f8ba46f7465979d92dff22b009fd2"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1afa2f6df06fae8266b3548f7cc5517537a6b2f06797da4e614efda461f090c2"
+hash = "7ddded1570a6ed9ec5b9f0fa1dbce5e29896c4f00f9fa56efe09b7716bb6bf3d"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "991d73ac70f595e375f6b4a1eba3d3bcdf797237049120d6bf59e2ee24afe97c"
+hash = "b65333a4878eecf3d220c101ae02be6e8707380156a7a02100164a865fb3a167"
 metafile = true
 
 [[files]]
