@@ -346,8 +346,8 @@ hash = "d9cba6cac8489cdc81e42cec6e663cca1ee86e5314ff13feb90bacaaf386f31d"
 metafile = true
 
 [[files]]
-file = "mods/custom-capes.pw.toml"
-hash = "f077e7c71333d9c971c751dc102c07bd8f9db2a4ca2d45356b8b325270d26a98"
+file = "mods/custom-capes-swkgaming_.pw.toml"
+hash = "989e0d66e009c44f71f7c09102d0185734900b27c30b929a1b8c16cbe4df6c2f"
 metafile = true
 
 [[files]]
