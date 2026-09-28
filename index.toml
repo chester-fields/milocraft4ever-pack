@@ -346,8 +346,8 @@ hash = "d9cba6cac8489cdc81e42cec6e663cca1ee86e5314ff13feb90bacaaf386f31d"
 metafile = true
 
 [[files]]
-file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "197e6bd2d70f3a2ee379ddede2d6cdf0ce187037441eb0b64883ba09ac88ecc4"
+file = "mods/custom-capes.pw.toml"
+hash = "f077e7c71333d9c971c751dc102c07bd8f9db2a4ca2d45356b8b325270d26a98"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9df59e32e49cba4e0a32df697503ed2d8d65672c1612eb41b9d66c6ecc01db8a"
+hash = "e9e537da62ff35a8ff12c85a0a5f55873d57a767001907a87af376a537aba3dc"
 metafile = true
 
 [[files]]

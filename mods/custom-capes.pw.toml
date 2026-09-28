@@ -1,0 +1,13 @@
+name = "Custom Capes"
+filename = "ep-custom-capes-fabric-1.0.5-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/922ZPIsc/versions/mRXgpuYF/ep-custom-capes-fabric-1.0.5-26.3.jar"
+hash-format = "sha512"
+hash = "eacb1e13742434b62e84ddf3d615c56e4a2a0fd4bfd76baa7a95c2de6952fc8132f2361e4c0e603ca40fc0a3d6bd738ffe8b359506c18c23b0a707e117a64269"
+
+[update]
+[update.modrinth]
+mod-id = "922ZPIsc"
+version = "mRXgpuYF"
