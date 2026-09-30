@@ -322,7 +322,7 @@ hash = "f4fe4324672cd0a9fad772b989dd9ce1d32a976467107c1d89ec1f291c950aeb"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "e2e0ceeebdd77d22b0d946d080b00d0650a72afed170b0919a847b020bf3a310"
+hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
 metafile = true
 
 [[files]]
@@ -352,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bf7197e8a64d3e69ce574bd7d8223ffa399e0786d416c8afb93e1be9320c4a3e"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
 
 [[files]]
 file = "mods/dreamdisplays.pw.toml"
-hash = "9f22fc973e9b765c43d2af5ece755be8d006000ab3bb202772529b76809bfec0"
+hash = "a7bd05790f3f21db26359f3ab28f725288a6ce9cbb7de1f26ec208f5dfe77747"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e9e537da62ff35a8ff12c85a0a5f55873d57a767001907a87af376a537aba3dc"
+hash = "4fd99baf07b5fa2ab60aaba245432bdd8864951dd52c9ff48ec2087953a22d00"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d68f9ad500e062c1e3b59f25bf72416e579d18d836b104f2712464298932eca7"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/time-weather-changer.pw.toml"
-hash = "dd428ee937b1680f6f8a7d7e50de79ac0683c373f810996dfe7522fc9e046cbe"
+hash = "53cdc9b43c4b389dacb282a55c4f086093d84c25d6dc4619f8770419b857efc2"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/noble.pw.toml"
-hash = "59b77b1b0fae8d38bd6ec947054b4acc71b32d42b9ac704d295e0883de251f53"
+hash = "dfced9515d539c89a7e0c628492302ba866f187fb88a8f4f095187bcb047dcdc"
 metafile = true
 
 [[files]]
