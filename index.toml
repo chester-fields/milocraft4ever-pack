@@ -326,13 +326,18 @@ hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
 metafile = true
 
 [[files]]
+file = "mods/bendable-cuboids.pw.toml"
+hash = "3ae1a6e7d80e97fba43aaa06c799b4a443904cd4fc2d810147d03adaa0299b04"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d02f19ad1ced26842ec50539cdaf16b208fbf80b67eea02f2755f839d6888c68"
+hash = "fba362fbad0083306ac4d3843c459fd4a22795b05ce8e0095d63e8b18dffe2c3"
 metafile = true
 
 [[files]]
 file = "mods/chunksmith.pw.toml"
-hash = "893da828fd0f2248ab7e72a8460f81dcc8f6551a1c327896b422cec9e1013701"
+hash = "825881f8bda11ea6132d7a4c85a227e975a76bd4d517d8815fad5b196ecc9c37"
 metafile = true
 
 [[files]]
@@ -347,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "989e0d66e009c44f71f7c09102d0185734900b27c30b929a1b8c16cbe4df6c2f"
+hash = "d1cdfb08a2129367175b4d96837b490331f5f39b766f0784fd59156865406801"
 metafile = true
 
 [[files]]
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "8ce8f7a5fa36fae2d745b3eb692cc81a31deede5072cdf771423e9c46905d310"
+hash = "488cb0ab6479bda0607e456d5af72fd76172207d22839ecf0562cdc8fdb73b1e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Bendable Cuboids"
+filename = "BendableCuboidsMerged-2.0.4+mc.26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OI3FlFon/versions/T4G9qBzf/BendableCuboidsMerged-2.0.4%2Bmc.26.3.jar"
+hash-format = "sha512"
+hash = "ea10e71ef1f1d704bc9b3c2eeb238f4cff34fd3d9a98b9cfb85207f41bd3ad7c862dd3a63cc2ee00e75b2fbe0eb8a8c8488f7674e09260c7dbcfe2adf4f093f6"
+
+[update]
+[update.modrinth]
+mod-id = "OI3FlFon"
+version = "T4G9qBzf"
