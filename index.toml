@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/bendable-cuboids.pw.toml"
-hash = "3ae1a6e7d80e97fba43aaa06c799b4a443904cd4fc2d810147d03adaa0299b04"
+hash = "f8241dca02d859a248a435c5d24c6def82986777133ad10ee78199e79a95fcba"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunksmith.pw.toml"
-hash = "825881f8bda11ea6132d7a4c85a227e975a76bd4d517d8815fad5b196ecc9c37"
+hash = "f7fe139c3f9baed52861b251a049d54aeb53301b807bda95fae1a05af4f5f7e0"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "4b715cc7c66e78c74b4b6e328af50901ca4165e8185ead974641ea8153de1c3c"
+hash = "456f1fdb2e4d602916e396a03ebe699972f723f62118c7554eb62a17802f6c40"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/dreamdisplays.pw.toml"
-hash = "a7bd05790f3f21db26359f3ab28f725288a6ce9cbb7de1f26ec208f5dfe77747"
+hash = "f5718d3559127c14eb72c00094d3fd3df66731ad482bf7eb7aacf096889a599d"
 metafile = true
 
 [[files]]
@@ -392,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "8214f758aaa6e7838dd0938c3780f2aa98268449d30098f824a97b9d409cbba8"
+hash = "6eba79755130a75d8ad4d093166206357cde98df321e498ecbc4825042cdd91c"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "8c7bca093a9147d6990733b92ddd15ee0342ab187120377ddf5f94fe0981d831"
+hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
 metafile = true
 
 [[files]]
