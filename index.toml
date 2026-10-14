@@ -22,6 +22,7 @@ preserve = true
 [[files]]
 file = "config/shulker-box-labels.json"
 hash = "7db09fb52642570a546dd4df53caeb1d8eeb047bce06031b9169a5152489f375"
+preserve = true
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
@@ -416,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "74ea73a3e4b45349dd7458726f4b4a6ddfbc3a380fceede50907b6787d29e2eb"
+hash = "c06f7a10340c07828d47e0a3b78e0b839723da4e9e6030e99ea166222007db32"
 metafile = true
 
 [[files]]
