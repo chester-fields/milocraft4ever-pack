@@ -1,0 +1,10 @@
+{
+  "renderLabels": true,
+  "renderFlat": "disabled",
+  "renderFlatLarge": true,
+  "rotateLabel": true,
+  "renderIconInsideContainers": true,
+  "labelRenderingModeHands": "3D",
+  "labelRenderingModeGUI": "3D",
+  "labelRenderingModeWorld": "3D"
+}
