@@ -3,11 +3,11 @@ filename = "Custom-Capes-1.0.0+fabric-26.1-26.3-obf.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ocbOUiHH/versions/R1KDwvLM/Custom-Capes-1.0.0%2Bfabric-26.1-26.3-obf.jar"
+url = "https://cdn.modrinth.com/data/ocbOUiHH/versions/J3dk99dq/Custom-Capes-1.0.0%2Bfabric-26.1-26.3-obf.jar"
 hash-format = "sha512"
-hash = "8de5c28a77f5a51493db52baaababd6a43d9b25b33040aa67521989ab9bc435f00d5bc80a790035db6b86c623ba9395a181f2dc7f9d28cdb0cc09b27cb47d4c3"
+hash = "0a63663d474077d224e483d375ab82e525852b0ec97801b12a1d2c8293aa6fb2daffb662ba5d242091b076c1d334331ae7602262db7da6011f9c49560678b5a7"
 
 [update]
 [update.modrinth]
 mod-id = "ocbOUiHH"
-version = "R1KDwvLM"
+version = "J3dk99dq"
