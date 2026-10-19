@@ -12,7 +12,7 @@ preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "99322572e6d163ef25c1773569b4c11bd7f726f286224c67c568f4951d65e751"
+hash = "3ca1cf6ab9b835ca5657972b12a0844b653811f0dda7fa61d1727bf08dd75b68"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
+hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "56bd40857db71c31b513e0b1b31292f86ab64f13340123b41b077e346fc2e4b1"
+hash = "3d76cbb0370f9ef8d7ca833b43eda9bfd485ab10118e69ff0b41db6521bb789a"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+hash = "37d652881626cec7b328758d6193f57fa679230ce18fc2ce1c21969c2ce7a5e1"
 metafile = true
 
 [[files]]
