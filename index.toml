@@ -6,13 +6,17 @@ hash = "c63126317fcfb1dddd562f6f62274db8f42831a5134be5d6c872f404dc1cbf06"
 preserve = true
 
 [[files]]
+file = "config/continuity.json"
+hash = "28eaff624c99a24e49882e5f56496a9e0f55e9a25e583e9313b0360494810b65"
+
+[[files]]
 file = "config/emotecraft.json"
 hash = "b7b4d2977ed561aa52f4436a549ee6cc392ee55e981a505e88f778cfe61e5246"
 preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "3ca1cf6ab9b835ca5657972b12a0844b653811f0dda7fa61d1727bf08dd75b68"
+hash = "662ee85564020ab76371553b062fbc44d581f7f4743f35ffe549e489c714333a"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -326,6 +330,11 @@ file = "mods/MiloCraftXaeroWaystones-26.3-2.0.7.jar"
 hash = "f4fe4324672cd0a9fad772b989dd9ce1d32a976467107c1d89ec1f291c950aeb"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
 metafile = true
@@ -351,8 +360,18 @@ hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
+metafile = true
+
+[[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
 hash = "3d76cbb0370f9ef8d7ca833b43eda9bfd485ab10118e69ff0b41db6521bb789a"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "987087289924e794b93b0532826e75ecf98b413d33e4289ffc5c088f28db5963"
 metafile = true
 
 [[files]]
@@ -655,6 +674,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
 hash = "726a74434ad19a42380638689edcf99be7f66d57f110c0ef8035eda2364d0f9d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "0f0c95de07f52e02b36f80bb5de96ba7666574cc2cf846edf54cc1df2db91fdf"
 metafile = true
 
 [[files]]

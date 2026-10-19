@@ -14,6 +14,9 @@ log_pack_ids = false
 # For that simply specify the file path to the folder/file relative to your <instance> folder
 [resourcepacks]
 	required = [
+		"resourcepacks/visual_armor_trims_4.2_MC26.3_bridge.zip",
+		"resourcepacks/No Pumpkin Blur 1.4.zip",
+		"resourcepacks/visual_paintings_2.2_MC26.3_bridge.zip",
 		"resourcepacks/IconFresh0.4.2MC26.3.zip",
 		"resourcepacks/FreshAnimations_v1.11_26.1+.zip",
 		"resourcepacks/FA+Player-v1.1.zip",
@@ -21,8 +24,10 @@ log_pack_ids = false
 	]
 	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
 	# Search for "# Listing Resource Packs #" inside the log
-	enable_builtin = []
-
+	enable_builtin = [
+		"continuity:glass_pane_culling_fix",
+		"continuity:default"
+	]
 [datapacks]
 	required = ["datapacks/", "resourcepacks/", "global_packs/required_data/"]
 	optional = ["global_packs/optional_data/"]
