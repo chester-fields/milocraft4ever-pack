@@ -16,7 +16,7 @@ preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "662ee85564020ab76371553b062fbc44d581f7f4743f35ffe549e489c714333a"
+hash = "ce71e3046c72c6a2cf8f7d0c9b5d31d12a3dc05bef81ca0ce2d1101151b61161"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+hash = "fe63c15de4431cf734d3931584ed5c8af4005ad4a92484312887f3cda98510cf"
 metafile = true
 
 [[files]]
@@ -618,18 +618,23 @@ hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "900bd8263715492d4cecf5bb88831f8ff90c9842c02b4b53b1cd3b9916f3b004"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "95637027d29d45d1e3e3e1ceb231236d2cb1414c161b032bd09ca52e1b37c1c5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2370e1441f428ef911b96cb4511c938a7a327a2fa97045949c5530da1c0635e8"
+hash = "0ddbddb0f93319bb51f4a0d2e1419d587609b152d5e953ef058fb68c9f3d4089"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e64b0d3e2bab7c261fa936c79c7b33baba9d8b16ac5171e8687ba71094903629"
+hash = "1d78fecab0f34708540335a8e8f71d7c271facf0a018f2c10fbedc82e7d6d8df"
 metafile = true
 
 [[files]]
@@ -639,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "99ff6e75fb0d1f67bf9b35d7d9c91d48c62ab4f6569abe0643e497d90911933b"
+hash = "b945f30432cce8f2297e7b073fae0c4c37e316a3070d3e82312cb032db055b1f"
 metafile = true
 
 [[files]]
@@ -668,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "37d652881626cec7b328758d6193f57fa679230ce18fc2ce1c21969c2ce7a5e1"
+hash = "c9f80e36cc2baa3650e345213e80881625c16fc64d3990c2d651e4302c2b9303"
 metafile = true
 
 [[files]]
@@ -696,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "124adb8dc2e059324dc6b4d80d2b381ab92181a96abe1c2a7c58964c17903bfe"
+hash = "9baf21bbd0e4b4145587ce8c0398bd95517189c102a2ce8476b5a561ca353238"
 metafile = true
 
 [[files]]
