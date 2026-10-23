@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "3d76cbb0370f9ef8d7ca833b43eda9bfd485ab10118e69ff0b41db6521bb789a"
+hash = "28e8b7f60ba587317e5039c9dc20b695b619aa975a5cb2e7268094b5e29ab4b6"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/dreamdisplays.pw.toml"
-hash = "4086e9f791ee95407ae2868c44e65ff6e8b091f6d475be7e8b7fb8e6e5939d32"
+hash = "8ec89eaaa8da9a34a8ee10fdd6dba1c93bab37224e4184741e2f5db95e65e07a"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
+hash = "ab722aa606514e0847f7824e831efbd67a3afc48fc4d88c4afd88a7959d8c3d6"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1f2a07748eb8051e599f98f19a0ec89cd0ab536bb9c8dac0b644dbd80bfaa7c4"
+hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
 metafile = true
 
 [[files]]
