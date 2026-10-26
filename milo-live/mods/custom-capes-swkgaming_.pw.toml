@@ -1,0 +1,13 @@
+name = "Custom Capes"
+filename = "Custom-Capes-2.3.3+fabric-26.1-26.3-obf.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ocbOUiHH/versions/3nAyLMe9/Custom-Capes-2.3.3%2Bfabric-26.1-26.3-obf.jar"
+hash-format = "sha512"
+hash = "a54790b6becd892bfe3e25ce7f22f5ea9a4a9ceed4fdf3dd39ccddece29aeb8e818260218593269bc6999e80c022cc94eb7b377da034660657ea002dc98250f8"
+
+[update]
+[update.modrinth]
+mod-id = "ocbOUiHH"
+version = "3nAyLMe9"

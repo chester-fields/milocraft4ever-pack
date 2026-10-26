@@ -16,7 +16,7 @@ preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "ce71e3046c72c6a2cf8f7d0c9b5d31d12a3dc05bef81ca0ce2d1101151b61161"
+hash = "58cf80395c98e9ffd0aecfc0f61172ee52959f1e3d3079942977109c224a4ca8"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -316,351 +316,379 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
-file = "mods/3d-maps.pw.toml"
+file = "milo-live/mods/3d-maps.pw.toml"
 hash = "d05f0dfb85b3d14f2355c84db1bd79fe2b91b7b4a0e8f8bd5a72c7d5beff4e30"
 metafile = true
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
+file = "milo-live/mods/3dskinlayers.pw.toml"
 hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
 metafile = true
 
 [[files]]
-file = "mods/MiloCraftXaeroWaystones-26.3-2.0.7.jar"
+file = "milo-live/mods/MiloCraftXaeroWaystones-26.3-2.0.7.jar"
 hash = "f4fe4324672cd0a9fad772b989dd9ce1d32a976467107c1d89ec1f291c950aeb"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "milo-live/mods/architectury-api.pw.toml"
 hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
 metafile = true
 
 [[files]]
-file = "mods/armor-poser.pw.toml"
+file = "milo-live/mods/armor-poser.pw.toml"
 hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
+file = "milo-live/mods/badoptimizations.pw.toml"
 hash = "fab0f8da4e12ee8f400a8f8a95619dc3aa6881ea0821a25f5cc6f2c77ecacf45"
 metafile = true
 
 [[files]]
-file = "mods/bendable-cuboids.pw.toml"
+file = "milo-live/mods/bendable-cuboids.pw.toml"
 hash = "f8241dca02d859a248a435c5d24c6def82986777133ad10ee78199e79a95fcba"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
+file = "milo-live/mods/better-block-entities.pw.toml"
 hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
+file = "milo-live/mods/chat-heads.pw.toml"
 hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
 metafile = true
 
 [[files]]
-file = "mods/chunksmith.pw.toml"
+file = "milo-live/mods/chunksmith.pw.toml"
 hash = "96aeb4a1b5c1b53d02537d600ec9d51f10b05c32daafcde240b9e1872a1e9320"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
+file = "milo-live/mods/cloth-config.pw.toml"
 hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
+file = "milo-live/mods/continuity.pw.toml"
 hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
 metafile = true
 
 [[files]]
-file = "mods/custom-capes-swkgaming_.pw.toml"
-hash = "28e8b7f60ba587317e5039c9dc20b695b619aa975a5cb2e7268094b5e29ab4b6"
+file = "milo-live/mods/custom-capes-swkgaming_.pw.toml"
+hash = "15f80527e6884fff9236962937c50c5c5ecdf0e007fade84df1602def25c5152"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
+file = "milo-live/mods/debugify.pw.toml"
 hash = "987087289924e794b93b0532826e75ecf98b413d33e4289ffc5c088f28db5963"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
+file = "milo-live/mods/distanthorizons.pw.toml"
 hash = "fe63c15de4431cf734d3931584ed5c8af4005ad4a92484312887f3cda98510cf"
 metafile = true
 
 [[files]]
-file = "mods/dreamdisplays.pw.toml"
-hash = "8ec89eaaa8da9a34a8ee10fdd6dba1c93bab37224e4184741e2f5db95e65e07a"
+file = "milo-live/mods/dreamdisplays.pw.toml"
+hash = "a25e09bd6723a0eb69c0dc60955daf5cb147105e4e39875d51af8a41db483b3d"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft.pw.toml"
+file = "milo-live/mods/emotecraft.pw.toml"
 hash = "488cb0ab6479bda0607e456d5af72fd76172207d22839ecf0562cdc8fdb73b1e"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
+file = "milo-live/mods/entity-model-features.pw.toml"
 hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
+file = "milo-live/mods/entityculling.pw.toml"
 hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
 metafile = true
 
 [[files]]
-file = "mods/entitytexturefeatures.pw.toml"
+file = "milo-live/mods/entitytexturefeatures.pw.toml"
 hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
 metafile = true
 
 [[files]]
-file = "mods/eunomia.pw.toml"
+file = "milo-live/mods/eunomia.pw.toml"
 hash = "206d12e7457ab3fae918079819ee5f9bc62bc327c469662e19a0da7d495bf5b6"
 metafile = true
 
 [[files]]
-file = "mods/euphoria-patches.pw.toml"
+file = "milo-live/mods/euphoria-patches.pw.toml"
 hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
+file = "milo-live/mods/fabric-api.pw.toml"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
+file = "milo-live/mods/fabric-language-kotlin.pw.toml"
 hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "milo-live/mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
+file = "milo-live/mods/forge-config-api-port.pw.toml"
 hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
 metafile = true
 
 [[files]]
-file = "mods/freecam.pw.toml"
+file = "milo-live/mods/freecam.pw.toml"
 hash = "c06f7a10340c07828d47e0a3b78e0b839723da4e9e6030e99ea166222007db32"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
+file = "milo-live/mods/globalpacks.pw.toml"
 hash = "7422583b1b0846e9899142d0b97fd6ed399bbafd5f2252798d4f109d024d8839"
 metafile = true
 
 [[files]]
-file = "mods/imageframeclient.pw.toml"
+file = "milo-live/mods/imageframeclient.pw.toml"
 hash = "c11c2c85f6b357611e27f9b5626eb5da777acb7f3bb5f861b51324ad1ca23fc1"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
+file = "milo-live/mods/immediatelyfast.pw.toml"
 hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
+file = "milo-live/mods/iris.pw.toml"
 hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
-file = "mods/item-descriptions.pw.toml"
+file = "milo-live/mods/item-descriptions.pw.toml"
 hash = "6eba79755130a75d8ad4d093166206357cde98df321e498ecbc4825042cdd91c"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
+file = "milo-live/mods/jade.pw.toml"
 hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
+file = "milo-live/mods/just-zoom.pw.toml"
 hash = "45f57120a9247fadefff5752ca74daee5c3b4c7f8ba7be9e053ccb45185911e2"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
+file = "milo-live/mods/konkrete.pw.toml"
 hash = "be49ac9cfebe40f63f8c57755cf0d9a837803a0c0219a0ada8c9c2e2980e3e99"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
+file = "milo-live/mods/lambdynamiclights.pw.toml"
 hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
 metafile = true
 
 [[files]]
-file = "mods/lighty.pw.toml"
+file = "milo-live/mods/lighty.pw.toml"
 hash = "f5ce08998c3532a32c883182ad1d75aefbe1f6530a08eb4d1a4389b717aa8ec4"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "milo-live/mods/lithium.pw.toml"
 hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
 
 [[files]]
-file = "mods/mclogs.pw.toml"
+file = "milo-live/mods/mclogs.pw.toml"
 hash = "46bb181cfaa1e120267f66a41af529b88cb682ae148f00aabea8713569340558"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "milo-live/mods/modmenu.pw.toml"
 hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
+file = "milo-live/mods/moreculling.pw.toml"
 hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
 metafile = true
 
 [[files]]
-file = "mods/mossylib.pw.toml"
+file = "milo-live/mods/mossylib.pw.toml"
 hash = "552185c96895df6b916e5f8c7f98016f2940f52bb6ebe41bd812b581977c756b"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
+file = "milo-live/mods/mouse-tweaks.pw.toml"
 hash = "d9f809b321cdd117600e45f92215c8e750ed0b65641c18d394bb4c111019581d"
 metafile = true
 
 [[files]]
-file = "mods/my_totem_doll.pw.toml"
+file = "milo-live/mods/my_totem_doll.pw.toml"
 hash = "c0bde6fd2f782bc14bc43cc2880b6b7c4650292c04a1c73355996ff0de3484e8"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
+file = "milo-live/mods/not-enough-animations.pw.toml"
 hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
 metafile = true
 
 [[files]]
-file = "mods/patpat.pw.toml"
+file = "milo-live/mods/patpat.pw.toml"
 hash = "f2dd928e9303907e208a9c8f1a767e72e719a8094901cceb998bdf24cddb2da2"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
+file = "milo-live/mods/ping-wheel.pw.toml"
 hash = "6c5e84a22bd6aaee4f7bb99f31ea81905b366e54fb945f0463a2de6eb9f2ff5a"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
+file = "milo-live/mods/placeholder-api.pw.toml"
 hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-library.pw.toml"
+file = "milo-live/mods/player-animation-library.pw.toml"
 hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
 metafile = true
 
 [[files]]
-file = "mods/player-cushions.pw.toml"
+file = "milo-live/mods/player-cushions.pw.toml"
 hash = "cb392eeed22a2a7afdf6fa06c9c44d086fa72bb77066b73ab14cd0c16f3aab72"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
+file = "milo-live/mods/presence-footsteps.pw.toml"
 hash = "279d7c9d5c8f3c2ba00181c7be8b4de3d6f51174301cb9eff632db1cb34a5477"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
+file = "milo-live/mods/reeses-sodium-options.pw.toml"
 hash = "dbff49110dc8d3d2071b1d1a93a694601b595af2aa9ee48f3f08fbe90c734b69"
 metafile = true
 
 [[files]]
-file = "mods/rpc-1.2.8+26.3.jar"
+file = "milo-live/mods/rpc-1.2.8+26.3.jar"
 hash = "94912d0df23d27816903223d959d78d0931422430ab96245464157ad7b31d433"
 
 [[files]]
-file = "mods/screenshot-to-discord-client-1.3.9.jar"
+file = "milo-live/mods/screenshot-to-discord-client-1.3.9.jar"
 hash = "9901f372b85db1b28a530303be359c38ea38893ef5803d3808afad1acb7a7a98"
 
 [[files]]
-file = "mods/shulker-box-labels.pw.toml"
+file = "milo-live/mods/shulker-box-labels.pw.toml"
 hash = "222cb570f09ee6fadf133c9d62825864ebe07f39e25895c9a8b2ea0f99188289"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a60445c98a3a1412a6429357cb70302af6505165049f57f29b81b1489c4673b9"
+file = "milo-live/mods/shulkerboxtooltip.pw.toml"
+hash = "5d79a93f9dfd1fe63ebbe276056b9b7830f2480c3ffab35db5285d4b3c8a6014"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ab722aa606514e0847f7824e831efbd67a3afc48fc4d88c4afd88a7959d8c3d6"
+file = "milo-live/mods/simple-voice-chat.pw.toml"
+hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
+file = "milo-live/mods/sodium-extra.pw.toml"
+hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "milo-live/mods/sodium.pw.toml"
 hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
+file = "milo-live/mods/sound-physics-remastered.pw.toml"
 hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
 metafile = true
 
 [[files]]
-file = "mods/time-weather-changer.pw.toml"
+file = "milo-live/mods/time-weather-changer.pw.toml"
 hash = "d0c4b7635352383e2d9068d574d3a097338bf576e70a310cf085dcf8f516ea68"
 metafile = true
 
 [[files]]
-file = "mods/too-many-shortcuts.pw.toml"
+file = "milo-live/mods/too-many-shortcuts.pw.toml"
 hash = "b64c4c93a39dd4323bef45e35981e8f12472f483ce2503468d5ab1ac4e3247cb"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
+file = "milo-live/mods/visuality.pw.toml"
 hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
 
 [[files]]
-file = "mods/voxy.pw.toml"
+file = "milo-live/mods/voxy.pw.toml"
 hash = "900bd8263715492d4cecf5bb88831f8ff90c9842c02b4b53b1cd3b9916f3b004"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
+file = "milo-live/mods/wavey-capes.pw.toml"
 hash = "95637027d29d45d1e3e3e1ceb231236d2cb1414c161b032bd09ca52e1b37c1c5"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "0ddbddb0f93319bb51f4a0d2e1419d587609b152d5e953ef058fb68c9f3d4089"
+file = "milo-live/mods/xaeros-minimap.pw.toml"
+hash = "14e96b12f10a1f2920cdcec89b4d16e452bec4689e117b38b4c0f759145aaf7f"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "1d78fecab0f34708540335a8e8f71d7c271facf0a018f2c10fbedc82e7d6d8df"
+file = "milo-live/mods/xaeros-world-map.pw.toml"
+hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
+file = "milo-live/mods/yacl.pw.toml"
 hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
 metafile = true
 
 [[files]]
-file = "mods/zannaghs-armor-hider.pw.toml"
+file = "milo-live/mods/zannaghs-armor-hider.pw.toml"
 hash = "b945f30432cce8f2297e7b073fae0c4c37e316a3070d3e82312cb032db055b1f"
 metafile = true
+
+[[files]]
+file = "milo-prism-updater/MiloPrismCore-4.0.1.jar"
+hash = "05335f335e0c3d686714f9cabb640732152e8a5cce20042050f551563fa7fdb8"
+
+[[files]]
+file = "milo-prism-updater/MiloPrismShim.jar"
+hash = "3fdd0c8172f352e90bd78474f4f6f375b915031663cb74b99b24b61d18f246f8"
+
+[[files]]
+file = "milo-prism-updater/bootstrap.properties"
+hash = "716fba4d872e46f98a1ef4440ff90c6bca0e8656ea1411b678513cce60f94f00"
+
+[[files]]
+file = "milo-prism-updater/target.properties"
+hash = "535891403e56e0e272f0cc5610991d576f039411d202eaf1b0e48fc47be58251"
+
+[[files]]
+file = "milo-prism-v4-migration.txt"
+hash = "bc1691a65fa8a62403c12419c2dbe063ad32914386e0d9a50a8e61917092b194"
+
+[[files]]
+file = "mods/MiloPrismBridge-4.0.1.jar"
+hash = "6629e5d8c80b4c196f5f7ce0130b68de1064c3296cb1352971407270182515a1"
 
 [[files]]
 file = "options.txt"
 hash = "8c65542c100c431f27300681aed9859b2cd1d664a3f28ae32a8c4a9b6a353737"
 preserve = true
+
+[[files]]
+file = "resourcepacks/FA_All_Extensions-v1.10.zip"
+hash = "11f597b01f06a21f9a6d0a524cad29650ad1099c27052fa76c37fa554c3c522e"
 
 [[files]]
 file = "resourcepacks/IconFresh0.4.2MC26.3.zip"
@@ -674,11 +702,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "3874d5d4499148996d5e11f9bee74f669f0e5901440edf7aab3c5e55d14f1829"
 metafile = true
 
 [[files]]

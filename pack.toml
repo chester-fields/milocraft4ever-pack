@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e26537afa36877a926607e79e07e6015488e2005ad120ff7762cc4ab72e1fa8c"
+hash = "229e7ee3bd6c5a92d30b68da2970deb1d2b037b4ce70c6c39e4e4b9561ba7a18"
 
 [versions]
 fabric = "0.19.5"
 minecraft = "26.3"
+
+[options]
+meta-folder-base = "milo-live"
