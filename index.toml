@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/custom-capes-swkgaming_.pw.toml"
-hash = "15f80527e6884fff9236962937c50c5c5ecdf0e007fade84df1602def25c5152"
+hash = "5454f748fb2ff817dcb841f81c2cdcfa6246bf3477b3e13ad5a63357302fe3e4"
 metafile = true
 
 [[files]]
@@ -598,6 +598,11 @@ hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
 metafile = true
 
 [[files]]
+file = "milo-live/mods/smoothplayeranimations.pw.toml"
+hash = "18b845540aad3029775859d5362942d96f29ebad4f72a2f6bac60239ec50d738"
+metafile = true
+
+[[files]]
 file = "milo-live/mods/sodium-extra.pw.toml"
 hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
@@ -658,6 +663,10 @@ hash = "b945f30432cce8f2297e7b073fae0c4c37e316a3070d3e82312cb032db055b1f"
 metafile = true
 
 [[files]]
+file = "milo-prism-updater/MiloPlayerShopsUI-1.0.2-Paper26.3.jar"
+hash = "33c8b298435971eb9ca03673668b6586b3e5a5f1d2869db0ed72eab50b4a4077"
+
+[[files]]
 file = "milo-prism-updater/MiloPrismCore-4.0.1.jar"
 hash = "05335f335e0c3d686714f9cabb640732152e8a5cce20042050f551563fa7fdb8"
 
@@ -675,7 +684,7 @@ hash = "535891403e56e0e272f0cc5610991d576f039411d202eaf1b0e48fc47be58251"
 
 [[files]]
 file = "milo-prism-v4-migration.txt"
-hash = "bc1691a65fa8a62403c12419c2dbe063ad32914386e0d9a50a8e61917092b194"
+hash = "352035db3e8d72659aed4f51b8108b74452adfe9eac2c3c228ee0b85587af2c7"
 
 [[files]]
 file = "mods/MiloPrismBridge-4.0.1.jar"
