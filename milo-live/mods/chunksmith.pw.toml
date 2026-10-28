@@ -1,13 +1,13 @@
 name = "Chunksmith"
-filename = "chunksmith-4.6.0+26.3.jar"
+filename = "chunksmith-4.8.0+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/Sun3j32A/chunksmith-4.6.0%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/cS5UGCz3/chunksmith-4.8.0%2B26.3.jar"
 hash-format = "sha512"
-hash = "6a1d924db9a2f09c983b0463fc2e7c7374e25185a632605daef9f71f41a7182a6804fb8b744fb17f7513b104126836de7b779a526c6560de5b506309fa4055c2"
+hash = "876bb951e1a4300e4447f7057e756c239d95c40cad89ec4a09e8369c23618b0b340f58072c835fab0ec7609b3336adcd6fad5a0f65eb3aac2f12df4edcb1224c"
 
 [update]
 [update.modrinth]
 mod-id = "4BeAEBIb"
-version = "Sun3j32A"
+version = "cS5UGCz3"

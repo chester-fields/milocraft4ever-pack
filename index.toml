@@ -330,6 +330,10 @@ file = "milo-live/mods/MiloCraftXaeroWaystones-26.3-2.0.7.jar"
 hash = "f4fe4324672cd0a9fad772b989dd9ce1d32a976467107c1d89ec1f291c950aeb"
 
 [[files]]
+file = "milo-live/mods/MiloSPADebugHide-1.0.2.jar"
+hash = "432b25bf88ef40efa4016479513fcf4beb760609e3599344d42d584f3fb62a8c"
+
+[[files]]
 file = "milo-live/mods/architectury-api.pw.toml"
 hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
 metafile = true
@@ -361,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/chunksmith.pw.toml"
-hash = "96aeb4a1b5c1b53d02537d600ec9d51f10b05c32daafcde240b9e1872a1e9320"
+hash = "e25e1a9cd1b98d97e488cdb088c134a3450b8771c2449a50cc207a31d96c4624"
 metafile = true
 
 [[files]]
@@ -391,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/dreamdisplays.pw.toml"
-hash = "a25e09bd6723a0eb69c0dc60955daf5cb147105e4e39875d51af8a41db483b3d"
+hash = "85d2fde4f06dafa47443929f9db77edb305714387679cfcbd0541120ef48b22c"
 metafile = true
 
 [[files]]
@@ -416,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/eunomia.pw.toml"
-hash = "206d12e7457ab3fae918079819ee5f9bc62bc327c469662e19a0da7d495bf5b6"
+hash = "f009a6a9c322dc49edef4787e2ba6a6baab5995af87081afdba18915e0ef987f"
 metafile = true
 
 [[files]]
@@ -594,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/simple-voice-chat.pw.toml"
-hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -659,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/zannaghs-armor-hider.pw.toml"
-hash = "b945f30432cce8f2297e7b073fae0c4c37e316a3070d3e82312cb032db055b1f"
+hash = "d69b9acf52fbb6cdc41b44332ef7df1032850f59e111a87db6480d1ce2796c9d"
 metafile = true
 
 [[files]]
