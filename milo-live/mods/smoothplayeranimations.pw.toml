@@ -1,13 +1,13 @@
 name = "SmoothPlayerAnimations"
-filename = "SmoothPlayerAnimations_Fabric_26.3_2.0.1.jar"
+filename = "SmoothPlayerAnimations_Fabric_26.3_2.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZdlGpqTS/versions/yOzJfsey/SmoothPlayerAnimations_Fabric_26.3_2.0.1.jar"
+url = "https://cdn.modrinth.com/data/ZdlGpqTS/versions/53wZ1y0b/SmoothPlayerAnimations_Fabric_26.3_2.0.2.jar"
 hash-format = "sha512"
-hash = "12b436abf9b08c4238801811c931707726f8db2fb11e3b67c3078ecc7af628627b12a46d5133aea5466147dc49c413da38c7f66fe11a833208243e2921547645"
+hash = "a580fb7ed297b14dd14886ea486abadb1098f4ef976754d59f1aac52f0f267b28aa522bff285a387823be07e76756227869b69db3885eb5bb61a4900619406bb"
 
 [update]
 [update.modrinth]
 mod-id = "ZdlGpqTS"
-version = "yOzJfsey"
+version = "53wZ1y0b"
