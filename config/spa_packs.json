@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "cemEnabled": true,
+  "faceOverlay": true,
+  "externalAnimations": true,
+  "capePhysics": true,
+  "lanternPhysics": true,
+  "emfShieldOwnedIds": [],
+  "disabledAnimations": [],
+  "disabledAnimationsCem": [],
+  "enabledAnimations": [],
+  "enabledAnimationsCem": [],
+  "itemAnimations": []
+}

@@ -1,13 +1,13 @@
 name = "Dream Displays"
-filename = "dreamdisplays-fabric-26.3-1.10.6.jar"
+filename = "dreamdisplays-fabric-26.3-1.10.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4IIKQyBu/versions/PJM7zO6S/dreamdisplays-fabric-26.3-1.10.6.jar"
+url = "https://cdn.modrinth.com/data/4IIKQyBu/versions/pzbbj86T/dreamdisplays-fabric-26.3-1.10.8.jar"
 hash-format = "sha512"
-hash = "6d2770adab67f40c5d9fa6c1265467c03e44507814345af68fa1b6a1a0c9407747360a3e4c535aa2c1fa05a462796daba43f57a1e62ebf1523215bbc3e1863df"
+hash = "77fd12c51ee991e6d78e984478283748854b35830cb734d94a33c5fe71f394398198b6b9029a2fa40ba15ff8c86fbaa43ad3eaeb76f0c390c6406854a743e7da"
 
 [update]
 [update.modrinth]
 mod-id = "4IIKQyBu"
-version = "PJM7zO6S"
+version = "pzbbj86T"

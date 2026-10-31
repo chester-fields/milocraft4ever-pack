@@ -16,7 +16,7 @@ preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "58cf80395c98e9ffd0aecfc0f61172ee52959f1e3d3079942977109c224a4ca8"
+hash = "1a9c793c82a24c04fafae11067fdee6a3fa32ab3b19d70bcefd3bb471d8138bd"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -37,6 +37,10 @@ preserve = true
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "121daac46200adcbb58db44ff79d97590ee23b869207f1ae821804c0a21b8b3f"
 preserve = true
+
+[[files]]
+file = "config/spa_packs.json"
+hash = "279f63ef276e1a0a53b69d4f5bd9680a6cc977c98763ac2d8ceabf3f613e52c6"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
@@ -384,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/custom-capes-swkgaming_.pw.toml"
-hash = "5454f748fb2ff817dcb841f81c2cdcfa6246bf3477b3e13ad5a63357302fe3e4"
+hash = "5e2821abe01ea520fa7215c529f2fe2f79b85b16103095f0da52077b24629c72"
 metafile = true
 
 [[files]]
@@ -399,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/dreamdisplays.pw.toml"
-hash = "85d2fde4f06dafa47443929f9db77edb305714387679cfcbd0541120ef48b22c"
+hash = "242e8dd04554ea436e58f075e14451334a3ed5dc40cb41298f782be01c89f8bf"
 metafile = true
 
 [[files]]
@@ -675,8 +679,8 @@ file = "milo-prism-updater/MiloPlayerShopsUI-1.0.2-Paper26.3.jar"
 hash = "33c8b298435971eb9ca03673668b6586b3e5a5f1d2869db0ed72eab50b4a4077"
 
 [[files]]
-file = "milo-prism-updater/MiloPrismCore-4.0.1.jar"
-hash = "05335f335e0c3d686714f9cabb640732152e8a5cce20042050f551563fa7fdb8"
+file = "milo-prism-updater/MiloPrismCore-4.0.2.jar"
+hash = "0ab0f00d8557f34eb3bfd09c1ac891668bb06bd9e0e2c729a3f70af1d737e541"
 
 [[files]]
 file = "milo-prism-updater/MiloPrismShim.jar"
@@ -695,17 +699,13 @@ file = "milo-prism-v4-migration.txt"
 hash = "352035db3e8d72659aed4f51b8108b74452adfe9eac2c3c228ee0b85587af2c7"
 
 [[files]]
-file = "mods/MiloPrismBridge-4.0.1.jar"
-hash = "6629e5d8c80b4c196f5f7ce0130b68de1064c3296cb1352971407270182515a1"
+file = "mods/MiloPrismBridge-4.0.2.jar"
+hash = "56f2767f3ab024c796709a63ea9ae6d8b63109d72d2a6764c4699ca566387d85"
 
 [[files]]
 file = "options.txt"
 hash = "8c65542c100c431f27300681aed9859b2cd1d664a3f28ae32a8c4a9b6a353737"
 preserve = true
-
-[[files]]
-file = "resourcepacks/FA_All_Extensions-v1.10.zip"
-hash = "11f597b01f06a21f9a6d0a524cad29650ad1099c27052fa76c37fa554c3c522e"
 
 [[files]]
 file = "resourcepacks/IconFresh0.4.2MC26.3.zip"
@@ -719,6 +719,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e22c1a688e24ebf62c9cfadf3c2aa3620b2b369fea981df068fc65c307fd56d1"
 metafile = true
 
 [[files]]
@@ -756,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"
-hash = "d0889b2db02fda54395d7ae5802431281fa5eb8ad868aa0abd5e762bb37e2eaf"
+hash = "9ae82cfb0b1e4904af2b3f0accd84c4a7eaa14d47bed64e9e13e254db72aae21"
 metafile = true
 
 [[files]]
