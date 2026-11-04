@@ -16,7 +16,7 @@ preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "1a9c793c82a24c04fafae11067fdee6a3fa32ab3b19d70bcefd3bb471d8138bd"
+hash = "7fafe86f76866c934f78dfb0654d84eb35832781c0712e0eb046981d5c573f0c"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/armor-poser.pw.toml"
-hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
+hash = "ba85f78e3ab56c1ba30454d2b3b278c1faa3058fd77e151c04f50bc149e14ae3"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/custom-capes-swkgaming_.pw.toml"
-hash = "5e2821abe01ea520fa7215c529f2fe2f79b85b16103095f0da52077b24629c72"
+hash = "a9dfb833c0cc3209bfbc644b1d4d8811ede237ac2cb3280f8e3277ecc9f1ecf7"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/entitytexturefeatures.pw.toml"
-hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
+hash = "c029d9c7873a6f072332e97d54422efa438bc8ae81d53bd1c078a6dd1644f0ce"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/fabric-api.pw.toml"
-hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
 metafile = true
 
 [[files]]
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/moreculling.pw.toml"
-hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
+hash = "a0fefd25252e1dfac7da103d64436b9d7579b5cf404fd664139c4db079f40897"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "milo-live/mods/not-enough-animations.pw.toml"
-hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
 metafile = true
 
 [[files]]
@@ -675,6 +675,21 @@ hash = "d69b9acf52fbb6cdc41b44332ef7df1032850f59e111a87db6480d1ce2796c9d"
 metafile = true
 
 [[files]]
+file = "milo-live/resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "cc45eddc38491d24d9060f7737863cc5d4719f558e1acde8c8b9b1ce31054ff2"
+metafile = true
+
+[[files]]
+file = "milo-live/resourcepacks/fresh-animations.pw.toml"
+hash = "b588662439509c0c1779965edc119b4091d7409e127109fac256570d9a61f872"
+metafile = true
+
+[[files]]
+file = "milo-live/resourcepacks/patrix-32x.pw.toml"
+hash = "2ce8bd4ca617d9ef21ffcf8c0185a81d20cf4dead6ebb7f0183f29ef34d73875"
+metafile = true
+
+[[files]]
 file = "milo-prism-updater/MiloPlayerShopsUI-1.0.2-Paper26.3.jar"
 hash = "33c8b298435971eb9ca03673668b6586b3e5a5f1d2869db0ed72eab50b4a4077"
 
@@ -722,23 +737,8 @@ hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "e22c1a688e24ebf62c9cfadf3c2aa3620b2b369fea981df068fc65c307fd56d1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "c9f80e36cc2baa3650e345213e80881625c16fc64d3990c2d651e4302c2b9303"
-metafile = true
-
-[[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
 hash = "726a74434ad19a42380638689edcf99be7f66d57f110c0ef8035eda2364d0f9d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/patrix-32x.pw.toml"
-hash = "0f0c95de07f52e02b36f80bb5de96ba7666574cc2cf846edf54cc1df2db91fdf"
 metafile = true
 
 [[files]]
