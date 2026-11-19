@@ -1,13 +1,13 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+filename = "EuphoriaPatcher-1.11.1-r5.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/YYczPGkW/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/NdeslWni/EuphoriaPatcher-1.11.1-r5.10-fabric.jar"
 hash-format = "sha512"
-hash = "683d3b1d4c123247b1b0745683c7788ed0b30daeeb30d2e7f8b4d66193c7c7a0d228813fe47d83138af381423e37a9377dd7fd2e0818803b1e380d30ec4ad2e6"
+hash = "5ee2afc2c75d7b0d6f6e0111de8c4d6e9b5b1440b22a10cc5a2d6b8849d3c4076375d0aef987aa33066d37c6001ee9e3ecbf3ad3ef1cda16cb85a2f076119c8f"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "YYczPGkW"
+version = "NdeslWni"
